@@ -13,5 +13,5 @@ List any resources used here, or simply put `N/A` if not applicable.
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `N/A`        | `N/A`     |
+| `Abdul Ghani Mishlawi`        | `mishlawi`     |
 | `N/A`        | `N/A`     |
